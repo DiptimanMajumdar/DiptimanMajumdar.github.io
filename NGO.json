@@ -4,7 +4,7 @@
             {
                 "name":"Saathii",
                 "address":"CD 335,Sector I,Salt Lake City,Kolkata-700 064,India",
-                "phoneumber":(033)2334-7329,
+                "phoneumber":"(033)2334-7329",
                 "website":"www.saathi.org"
             },
             {
@@ -16,19 +16,19 @@
             {
                 "name":"Association of India's Development(aid)",
                 "address":"5011 Tecumseh Street College Park,MD 20740,USA",
-                "phoneumber":304-TALK-AID,
+                "phoneumber":"304-TALK-AID",
                 "website":"info@aidindia.org"
             },
             {
                 "name":"Bhartiya Jain Sanghatana",
                 "address":"Bhartiya Jain Sanghatana,Level 3,Muttha Chamber II,Senapati Bapat Marg,Pune-411016,India",
-                "phoneumber":91 20 66050220,
+                "phoneumber":"91 20 66050220",
                 "website":"info@bjsindia.org"
             },
             {
                 "name":"Hemkunt Foundation",
                 "address":"Plot No.809,Second Floor,Rd 42C,Sector 42,Gurugram,Haryana 122001,India",
-                "phoneumber":91 9990691313,
+                "phoneumber":"91 9990691313",
                 "website":"info@hemkuntfoundation.com"
             },
             {
@@ -40,13 +40,13 @@
             {
                 "name":"Sehgal Foundation",
                 "address":"Plot No.34,Sector 44,Institutional Area,Gurugram,Haryana-122003,India",
-                "phoneumber":91 124 4744100,
+                "phoneumber":"91 124 4744100",
                 "website":"smsf@smsfoundation.org"
             },
             {
                 "name":"Sewa International",
                 "address":"Sewa International,First Floor,Plot 8,Site 11,Near SD Public School,West Patel Nagar,New Delhi-110008,India",
-                "phoneumber":91-11-43007650,
+                "phoneumber":"91-11-43007650",
                 "website":"contact@sewainternational.org"
             }
         ]
@@ -57,25 +57,25 @@
             {
                 "name":"American India Foundation",
                 "address":"O:1003-1005,10th Floor,DLF City Court,MG Road,Near Sikanderpur Metro Station,Gurgaon,Haryana 122002,India",
-                "phoneumber":91-124-4551850,
+                "phoneumber":"91-124-4551850",
                 "website":"www.aif.org"
             },
             {
                 "name":"Association of India's Development(aid)",
                 "address":"5011 Tecumseh Street College Park,MD 20740,USA",
-                "phoneumber":304-TALK-AID,
+                "phoneumber":"304-TALK-AID",
                 "website":"info@aidindia.org"
             },
             {
                 "name":"Wish Foundation",
                 "address":"Building No-24(3rd Floor),Okhla Industrial Area Phase III,New Delhi-110020,India",
-                "phoneumber":91-11-431 51600-19,
+                "phoneumber":"91-11-431 51600-19",
                 "website":"info@wishfoundationindia.org"
             },
             {
                 "name":"Swasti",
                 "address":"No.25,Raghavendra Nilaya,AECS Layout,Ashwathnagar,Bangalore,Karnataka 560094,India",
-                "phoneumber":91-80-23419616,
+                "phoneumber":"91-80-23419616",
                 "website":"hello@swasti.org"
             }
         ]
@@ -85,25 +85,25 @@
             {
                 "name":"Aajeevika Bureau",
                 "address":"39,Krishna Colony,Near Khan Complex,Bedla Road,Udaipur,Rajasthan 313001,India",
-                "phoneumber":91 294-245-1062,
+                "phoneumber":"91 294-245-1062",
                 "website":"info@aajeevika.org"
             },
             {
                 "name":"Akshaya Patra",
                 "address":"#72,3rd Floor,3rd Main Road,1st & 2nd Stage Yeshwantpur Industrial Suburb,Rajajinagar Ward No.10,Bengaluru-560022,India",
-                "phoneumber":91 80 3014 3400,
+                "phoneumber":"91 80 3014 3400",
                 "website":"infodesk@akshayapatra.org"
             },
             {
                 "name":"Foundation For Excellence",
                 "address":"No.840,5th Main,Indiranagar 1st Stage,Bengaluru 560 038,Karnataka,India",
-                "phoneumber":91 (080) 2520 1925,
+                "phoneumber":"91 (080) 2520 1925",
                 "website":"india_support@ffe.org"
             },
             {
                 "name":"Goonj",
                 "address":"J-93,Sarita Vihar,New Delhi-110076,India",
-                "phoneumber":011-26972351,
+                "phoneumber":"011-26972351",
                 "website":"mail@goonj.org"
             },
             {
@@ -115,7 +115,7 @@
             {
                 "name":"Plan India",
                 "address":"1,Community Centre,Zamrudpur,Kailash Colony Extension,New Delhi-110048,India",
-                "phoneumber":91 11-46558484,
+                "phoneumber":"91 11-46558484",
                 "website":"planindia@planindia.org"
             }
         ]
